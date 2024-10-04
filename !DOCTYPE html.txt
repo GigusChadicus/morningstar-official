@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>MORNINGSTAR OFFICIAL</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #0b0c10;
+            color: #c5c6c7;
+        }
+        header {
+            background-color: #1f2833;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 5px solid #45a29e;
+        }
+        header h1 {
+            color: #66fcf1;
+            font-size: 2.5em;
+            letter-spacing: 5px;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        nav a {
+            margin: 0 20px;
+            color: #66fcf1;
+            text-decoration: none;
+            font-size: 1.2em;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            color: #45a29e;
+        }
+        section {
+            padding: 50px;
+            text-align: center;
+        }
+        section h2 {
+            color: #66fcf1;
+            font-size: 2em;
+            text-transform: uppercase;
+            border-bottom: 2px solid #45a29e;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+        section p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #1f2833;
+            padding: 20px;
+            text-align: center;
+            border-top: 5px solid #45a29e;
+        }
+        footer p {
+            color: #66fcf1;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MORNINGSTAR OFFICIAL</h1>
+    </header>
+
+    <nav>
+        <a href="#products">Products</a>
+        <a href="#catalog">Catalog</a>
+        <a href="#assets">Assets</a>
+        <a href="#locations">Locations</a>
+        <a href="#contact">Contact Info</a>
+    </nav>
+
+    <section id="products">
+        <h2>Products</h2>
+        <p>Explore our cutting-edge technologies and offerings. From advanced cybernetic augmentations to state-of-the-art defense systems, Morningstar sets the standard in future warfare and beyond.</p>
+    </section>
+
+    <section id="catalog">
+        <h2>Catalog</h2>
+        <p>Browse through our extensive collection of high-performance products designed for extreme environments. Our catalog provides in-depth specifications and application guides for every item.</p>
+    </section>
+
+    <section id="assets">
+        <h2>Assets</h2>
+        <p>Morningstar’s global assets include specialized research facilities, manufacturing hubs, and strategic outposts. Our resources ensure superior quality and unmatched innovation.</p>
+    </section>
+
+    <section id="locations">
+        <h2>Locations</h2>
+        <p>Our facilities are strategically located worldwide to provide rapid deployment and continuous support. Visit our secure locations to learn more or partner with us.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Info</h2>
+        <p>Get in touch with our team through our secure communication channels. We're available for partnerships, inquiries, and support 24/7. Email us at: contact@morningstar.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 MORNINGSTAR OFFICIAL. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
